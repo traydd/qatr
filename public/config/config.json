@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6f31a49c93528ea76b958a034e9228ec97015342",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6f31a49c93528ea76b958a034e9228ec97015342",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Qatar 2022 Fiesta",
+  "SYMBOL": "QWCF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/qatar-2022-fiesta",
+  "SHOW_BACKGROUND": true
+}
